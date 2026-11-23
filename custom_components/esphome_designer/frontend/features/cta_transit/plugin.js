@@ -20,7 +20,9 @@ export default {
         title_font_size: 22,
         row_font_size: 18,
         countdown_font_size: 24,
-        row_gap: 8
+        row_gap: 8,
+        width: 1280,
+        height: 800
     },
     render,
     renderProperties,
